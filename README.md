@@ -41,17 +41,17 @@ $ npx expo start
 
 - **Voce pode criar, marcar, remover suas tarefas**
 
-**➕ Criar**                         
-                   **✔ Marcar**             
-                             **❌ Remover**
-
-<p align="center">
-
+**➕ Criar**
+<br />
 <img src="./assets/created.gif" />
-<img src="./assets/markered.gif" />
-<img src="./assets/deleted.gif" />
 
-</p>
+**✔ Marcar**
+<br />
+<img src="./assets/markered.gif" />
+
+**❌ Remover**
+<br />
+<img src="./assets/deleted.gif" />
 
 # 💻 Tecnologias
 
